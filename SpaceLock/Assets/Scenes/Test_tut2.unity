@@ -4020,7 +4020,6 @@ GameObject:
   - component: {fileID: 1420947899}
   - component: {fileID: 1420947898}
   - component: {fileID: 1420947897}
-  - component: {fileID: 1420947900}
   m_Layer: 0
   m_Name: Cube (23)
   m_TagString: Untagged
@@ -4114,22 +4113,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1420947895}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!114 &1420947900
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1420947895}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9dfc9cd3f8ee4b140ab60bed29140b6f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  cv: {fileID: 268037751}
-  Player: {fileID: 590969741}
-  distanceZ: 0.5
-  distacneX: 5
 --- !u!1 &1435436757
 GameObject:
   m_ObjectHideFlags: 0
@@ -5871,7 +5854,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f38e4a8602744bda9d2754570b88175, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minSpeed: 0.1
+  minSpeed: 0.2
   farObstacle: {fileID: 2100000, guid: ea106ef629bedc04d8acde84de232353, type: 2}
   nearObstacle: {fileID: 2100000, guid: 3cf9e915ef7554190b7669537095105b, type: 2}
   pointA: {x: -200, y: 38, z: -76.1}
