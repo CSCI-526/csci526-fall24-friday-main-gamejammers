@@ -246,7 +246,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8794213487476874594, guid: 4428120cf58a87d48905e174acbc81b2, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -58.1
+      value: -57.2
       objectReference: {fileID: 0}
     - target: {fileID: 8794213487476874594, guid: 4428120cf58a87d48905e174acbc81b2, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2953,7 +2953,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8669245508762601721, guid: ee533a8db57642d459365ac7cef99ae5, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8748641536776681380, guid: ee533a8db57642d459365ac7cef99ae5, type: 3}
       propertyPath: m_fontColor.b
